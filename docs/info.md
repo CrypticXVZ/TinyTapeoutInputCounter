@@ -17,3 +17,4 @@ Just flip the switches!
 
 ## External hardware
 
+No external hardware is needed
